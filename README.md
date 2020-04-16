@@ -24,8 +24,8 @@ docker ps
 
 Push to dockerhub
 ```
-$ docker tag 349f2af2a827 bparra/express-demo:latest
-$ docker push bparra/express-demo:latest
+$ docker tag 349f2af2a827 bparra/express-demo:tagname
+$ docker push bparra/express-demo:tagname
 ```
 
 ## Creating a stack
